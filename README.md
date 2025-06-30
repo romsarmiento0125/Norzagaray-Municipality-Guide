@@ -1,6 +1,6 @@
 # Norzagaray Municipality Guide (NMG)
 
-Norzagaray Municipality Guide (NMG) is a student project aimed at making a positive impact in the Norzagaray community. The primary goal of NMG is to improve the experience of tourists visiting Norzagaray by providing helpful information about the municipality.
+The Norzagaray Municipality Guide (NMG) is a project I undertook during my time as a student. It was designed to make a positive impact in the Norzagaray community, primarily by improving the experience of tourists visiting Norzagaray and helping them discover its local attractions, culture, and history.
 
 ## Project Overview
 
